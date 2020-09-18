@@ -1,4 +1,3 @@
-import math
 def summa(m):
     if m == 0:
         return m
