@@ -11,6 +11,7 @@ Fall tekur inn töluna n
   Bý til temp tölu fyrir n
   
   loop sem runnar á meðan temp er meira en 0
+  
     síðasta talan er temp modulus 10 svo það verður annaðhvort 1 eða 0
     deili temp með 10 svo að síðasta talan hverfi
     margfalda síðustu töluna með margföldunartölunni og bæti því við heildartöluna
