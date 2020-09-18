@@ -1,7 +1,9 @@
 ## RR-Verkefni2
 
 ###Dæmi 1
-Fall tekur inn töluna n \n
+
+Fall tekur inn töluna n
+
   Bý til int til að halda utan um heildartöluna sem byrjar sem 0
   
   geri margföldunar tölu til þess að halda utan um margföldunar töluna(1,2,4,8,16...)
